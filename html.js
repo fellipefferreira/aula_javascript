@@ -12,3 +12,4 @@ btn1.addEventListener('click', ()=>{
     //muda o css
     itemLista.style.backgroundColor = "red"
 })
+
