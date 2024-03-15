@@ -11,6 +11,7 @@ function App() {
     <>
     <Banner textoBanner="Texto do meu HTML"/>
     <Banner textoBanner="outro texto"/>
+    <Banner textoBanner="uai" numeroTentativas="5"/>
       <div>
         <a href="https://vitejs.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
